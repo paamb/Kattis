@@ -1,2 +1,2 @@
 # Kattis
-This is a repository for my accepted solutions to open.kattis.com problems
+This is a repository for my accepted solutions to [Kattis](https://open.kattis.com) problems
